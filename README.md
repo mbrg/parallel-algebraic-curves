@@ -42,7 +42,7 @@ To create your own curve, run [curve_animation](curve_animation.ipynb) notebook 
 
 ![equation](http://latex.codecogs.com/gif.latex?F%28x_1%2Cx_2%29%3D%20x_1%5E3&plus;x_1%5E2&plus;x_1%u2212x_2%5E2) 
 
-<img src="/curve_showoff/x1^3+x1^2+x1−x2^2.gif" alt="x1^3+x1^2+x1−x2^2" width="800" height="400"/> 
+<img src="/curve_showoff/x1^3+x1^2+x1-x2^2.gif" alt="x1^3+x1^2+x1-x2^2" width="800" height="400"/> 
 
 ## References
 
